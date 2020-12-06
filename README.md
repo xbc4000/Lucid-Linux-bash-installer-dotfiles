@@ -1,1 +1,1 @@
-# lucidlinux-bash-installer-dotfiles
+# Lucid-Linux-bash-installer-dotfiles
